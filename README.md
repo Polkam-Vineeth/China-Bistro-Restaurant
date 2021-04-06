@@ -1,7 +1,8 @@
 # China-Bistro-Restaurant
  
-- Online Food Ordering System done as part of a Web development course from Coursera.
- 
+ <details>
+  <summary>Online Food Ordering System done as part of a Web development course from Coursera.</summary>
+</details>
 <details>
   <summary>A fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.</summary>
 </details>
