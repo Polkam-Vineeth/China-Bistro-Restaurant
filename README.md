@@ -8,11 +8,9 @@
 </details>
 
 
-> Online Food Ordering System for a Restaurant.
- <a href=https://polkam-vineeth.github.io/China-Bistro-Restaurant/Module-5/index.html>
-     <img src=https://img.shields.io/badge/Source-Code-important>
- </a>
+> Online Food Ordering System for a Restaurant. <a href=https://polkam-vineeth.github.io/China-Bistro-Restaurant/Module-5/index.html> <img src=https://img.shields.io/badge/Source_Code-important> </a>
  
- <a href=https://polkam-vineeth.github.io/China-Bistro-Restaurant/Module-5/index.html>
+ 
+ - <a href=https://polkam-vineeth.github.io/China-Bistro-Restaurant/Module-5/index.html>
      <img src=https://img.shields.io/badge/Order_Now-brightgreen>
  </a>
